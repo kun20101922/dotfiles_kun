@@ -1,4 +1,6 @@
 My Neovim config 
 
-Plugins Manager
-https://lazyvim.org
+My Neovim Plugins Manager
+
+https://lazynvim.org
+
